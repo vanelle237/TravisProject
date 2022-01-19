@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TravisProject/static/css/main.073c9b0a.css",
-    "main.js": "/TravisProject/static/js/main.5cf70b52.js",
+    "main.css": "/TravisProject/static/css/main.96f2c21b.css",
+    "main.js": "/TravisProject/static/js/main.cba262ad.js",
     "static/js/787.7334b8db.chunk.js": "/TravisProject/static/js/787.7334b8db.chunk.js",
-    "static/media/logo.svg": "/TravisProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bbMaelle.jpg": "/TravisProject/static/media/bbMaelle.3e9946af9ad3224651eb.jpg",
     "index.html": "/TravisProject/index.html",
-    "main.073c9b0a.css.map": "/TravisProject/static/css/main.073c9b0a.css.map",
-    "main.5cf70b52.js.map": "/TravisProject/static/js/main.5cf70b52.js.map",
+    "main.96f2c21b.css.map": "/TravisProject/static/css/main.96f2c21b.css.map",
+    "main.cba262ad.js.map": "/TravisProject/static/js/main.cba262ad.js.map",
     "787.7334b8db.chunk.js.map": "/TravisProject/static/js/787.7334b8db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5cf70b52.js"
+    "static/css/main.96f2c21b.css",
+    "static/js/main.cba262ad.js"
   ]
 }
